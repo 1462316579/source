@@ -1,0 +1,35 @@
+{
+    "desc": "此链接为 MusicFree 插件，插件开发及使用方式参考 https://musicfree.upup.fun",
+    "plugins": [
+        {
+            "name": "qq",
+            "url": "./music/js/qq.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "小枸音乐",
+            "url": "./music/js/xg.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "小秋音乐",
+            "url": "./music/js/xq.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "小芸音乐.js",
+            "url": "./music/js/xy.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "小蜗音乐.js",
+            "url": "./music/js/xw.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "小蜜音乐.js",
+            "url": "./music/js/xm.js",
+            "version": "0.0.1"
+        }
+    ]
+}
