@@ -1,7 +1,7 @@
 //关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
-    "spider": "http://github.hckj.us.kg/https://raw.githubusercontent.com/1462316579/source/refs/heads/main/video/spider.jar/spider.jar",
+    "spider": "./spider.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
