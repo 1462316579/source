@@ -1,7 +1,7 @@
 //关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
-    "spider": "./spider.jar",
+    "spider": "",
     "rulefrom": "规则来自道长仓库 https://github.com/hjdhnx/dr_py",
     "rulepack": "香雅情整理打包(2023-08-22 22:39:59)",
     "sites": [
