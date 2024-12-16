@@ -10,11 +10,11 @@
     ],
     "sites": [
         {
-            "key": "人人影视",
-            "name": "人人影视",
+            "key": "低端",
+            "name": "低端",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "ext": "./js/人人影视.js"
+            "ext": "./js/低端.js"
         },
         {
             "key": "哔哩影视",
@@ -29,6 +29,23 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/LIBVIO.js"
+        },
+        {
+            "key": "人人影视",
+            "name": "人人影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/人人影视.js"
+        },
+        {
+            "key": "疯狗影视",
+            "name": "疯狗影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/疯狗影视.json"
         }
     ],
     "rules": [
