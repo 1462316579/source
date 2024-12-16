@@ -124,7 +124,6 @@
             "key": "动漫巴士",
             "name": "动漫巴士",
             "type": 3,
-            "api": "csp_XPath",
             "api": "csp_XBPQ",
             "searchable": 0,
             "quickSearch": 0,
