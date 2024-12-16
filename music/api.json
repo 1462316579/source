@@ -3,32 +3,32 @@
     "plugins": [
         {
             "name": "qq",
-            "url": "https://raw.githubusercontent.com/1462316579/source/refs/heads/main/music/js/qq.js",
+            "url": ".music/js/qq.js",
             "version": "0.0.1"
         },
         {
             "name": "xg",
-            "url": "https://raw.githubusercontent.com/1462316579/source/refs/heads/main/music/js/xg.js",
+            "url": "./music/js/xg.js",
             "version": "0.0.1"
         },
         {
             "name": "xq",
-            "url": "https://raw.githubusercontent.com/1462316579/source/refs/heads/main/music/js/xq.js",
+            "url": "./music/js/xq.js",
             "version": "0.0.1"
         },
         {
             "name": "xy",
-            "url": "https://raw.githubusercontent.com/1462316579/source/refs/heads/main/music/js/xy.js",
+            "url": "./music/js/xy.js",
             "version": "0.0.1"
         },
         {
             "name": "xw",
-            "url": "https://raw.githubusercontent.com/1462316579/source/refs/heads/main/music/js/xw.js",
+            "url": "./music/js/xw.js",
             "version": "0.0.1"
         },
         {
             "name": "xm",
-            "url": "https://raw.githubusercontent.com/1462316579/source/refs/heads/main/music/js/xm.js",
+            "url": "./music/js/xm.js",
             "version": "0.0.1"
         }
     ]
