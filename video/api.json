@@ -20,6 +20,13 @@
             "ext": "./json/在线之家.json"
         },
         {
+            "key": "drpy_js_在线之家",
+            "name": "在线之家[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/在线之家.js"
+        },
+        {
             "key": "疯狗影视",
             "name": "疯狗影视",
             "type": 3,
