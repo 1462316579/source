@@ -3,7 +3,7 @@
     "plugins": [
         {
             "name": "qq",
-            "url": ".music/js/qq.js",
+            "url": "./js/qq.js",
             "version": "0.0.1"
         },
         {
