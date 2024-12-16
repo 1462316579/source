@@ -8,27 +8,27 @@
         },
         {
             "name": "xg",
-            "url": "./music/js/xg.js",
+            "url": "./js/xg.js",
             "version": "0.0.1"
         },
         {
             "name": "xq",
-            "url": "./music/js/xq.js",
+            "url": "./js/xq.js",
             "version": "0.0.1"
         },
         {
             "name": "xy",
-            "url": "./music/js/xy.js",
+            "url": "./js/xy.js",
             "version": "0.0.1"
         },
         {
             "name": "xw",
-            "url": "./music/js/xw.js",
+            "url": "./js/xw.js",
             "version": "0.0.1"
         },
         {
             "name": "xm",
-            "url": "./music/js/xm.js",
+            "url": "./js/xm.js",
             "version": "0.0.1"
         }
     ]
