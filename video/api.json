@@ -125,9 +125,10 @@
             "name": "动漫巴士",
             "type": 3,
             "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
+            "api": "csp_XBPQ",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
             "ext": "./json/动漫巴士.json"
         },
         {
@@ -141,21 +142,12 @@
             "ext": "./json/维奇动漫.json"
         },
         {
-            "key": "动漫直连",
-            "name": "动漫直连",
+            "key": "csp_七新",
+            "name": "七新影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./json/动漫直连.json"
-        },
-        {
-            "key": "七新影视",
-            "name": "七新影视",
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/七新影视.json"
         },
@@ -181,9 +173,10 @@
         {
             "key": "真不卡影视",
             "name": "真不卡影视",
+            "type": 3,
             "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/真不卡影视.json"
         }
