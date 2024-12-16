@@ -38,6 +38,16 @@
             "ext": "./js/人人影视.js"
         },
         {
+            "key": "csp_Zxzj",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzj.pro/"
+        },
+        {
             "key": "疯狗影视",
             "name": "疯狗影视",
             "type": 3,
