@@ -2,7 +2,8 @@
 
 {
     "spider": "./video/spider.jar",
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "rulefrom": "规则来自道长仓库 https://github.com/hjdhnx/dr_py",
+    "rulepack": "香雅情整理打包(2023-08-22 22:39:59)",
     "sites": [
         {
             "key": "csp_DouDou",
