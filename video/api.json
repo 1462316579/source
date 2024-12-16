@@ -22,7 +22,14 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/哔哩影视.js"
-        }
+        },
+        {
+            "key": "LIBVIO",
+            "name": "LIBVIO",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/LIBVIO.js"
+        },
     ],
     "rules": [
         {
